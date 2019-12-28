@@ -289,9 +289,9 @@ section.container-first {
 }
 
 section.heading-section {
-	border-bottom: 1px solid #c8c8c8;
-	position: relative;
-	background-color: rgba(10, 130, 186, 0.4);
+    border-bottom: 1px solid #c8c8c8;
+    position: relative;
+    background-color: #55CA6C;
 }
 
 .heading-progress {
